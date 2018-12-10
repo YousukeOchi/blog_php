@@ -1,0 +1,33 @@
+body{
+  padding: 0 40px;
+  margin: 0;
+  font-size: 20px;
+  font-family: Verdana, sans-serif;
+  background-color: #FFFFCC;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: right;
+}
+
+.main-contents{
+  margin: 0 auto;
+}
+
+.title{
+  padding: 20px;
+}
+
+.action{
+  padding: 20px;
+}
+
+.time{
+  padding: 20px;
+}
+
+
